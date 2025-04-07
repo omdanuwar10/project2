@@ -9,13 +9,7 @@ body {
 
 /* Typography */
 .nire {
-    font-family: 'Courier New', monospace;
-    font-size: 1.2rem;
-    font-weight: 500;
-    color: #444444;
-    line-height: 1.5;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+    05em;
     margin: 15px 0;
 }
 h1 {
